@@ -1,6 +1,6 @@
 **Exercícios para entregar na semana:** 
 
-- 0 *Escreva seus algoritimos sobre item de rotina do dia-dia. (use o comentário // para realizar o texto)*
+- 0 *Escreva seus algoritimos sobre uma atividade de rotina do dia-dia. (use o comentário // para escrever o texto)*
 
 - 1 *Execute as seguintes tarefas:*
     - Declare uma variável chamada meuNome.
