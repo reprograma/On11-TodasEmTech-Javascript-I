@@ -90,8 +90,8 @@ console.log("...")
 console.log("...")
 
 // exercicio 7
- AlgodaoDoceQuantidade = 10
- AlgodaoDoceDeMorandoQuantidade = 10
+ let AlgodaoDoceQuantidade = 10
+ let AlgodaoDoceDeMorandoQuantidade = 10
 
  console.log("Exercicio 7")
  if (AlgodaoDoceDeMorandoQuantidade===AlgodaoDoceDeMorandoQuantidade) {
