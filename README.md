@@ -73,7 +73,6 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 - [] Estrutura if / else
 - [] Estrutura if / else if / else
 - [] Mostrar no código 
-- [] **Exercício** - condicionais
 
 ### Exercícios da semana!!
 - [] Passar exercícios da semana
