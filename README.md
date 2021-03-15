@@ -19,64 +19,74 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 ## Conteúdo da manhã - 9h - 12h
 
 ### Apresentação
-- [] Chamada
-- [] Apresentação professora e monitoras
-- [] Combinados de aula
-- [] Dinâmica rápida: qual seu nome, de onde vem, uma música que gosta e uma palavra de sensação/expectativa para o encontro do dia 
+- [x] Chamada
+- [x] Apresentação professora e monitoras
+- [x] Combinados de aula
+- [x] Dinâmica rápida: qual seu nome, de onde vem, uma música que gosta e uma palavra de sensação/expectativa para o encontro do dia 
 
 ### Introdução  
-- [] O que é e por que aprender lógica?
-- [] Curiosidade - internet e seus cabos oceânicos.
-- [] O que é o que é: backend e frontend?
-- [] O que são línguagens de programação?   
-- [] Quem é JavaScript? Por que usar o Node.js? 
+- [x] O que é e por que aprender lógica?
+- [x] Curiosidade - internet e seus cabos oceânicos.
+- [x] O que é o que é: backend e frontend?
+- [x] O que são línguagens de programação?   
+- [x] Quem é JavaScript? Por que usar o Node.js? 
 
 ### Princípios básicos
-- [] O que são algoritmos?
-- [] Algoritmos no nosso dia a dia
-- [] Entrada, Processamento + Memória e Saída
-- [] Lógica narrativa, fluxograma e pseudocódigo  
+- [x] O que são algoritmos?
+- [x] Algoritmos no nosso dia a dia
+- [x] Entrada, Processamento + Memória e Saída
+- [x] Lógica narrativa, fluxograma e pseudocódigo  
 ### Intervalo - 15 min
-- [] **Exercício** - Construa um algoritmo pensando numa tarefa sua do dia-dia. - 10 min
-- [] 3 alunas para ler suas respostas de exercícios - 10 min
+- [x] **Exercício** - Construa um algoritmo pensando numa tarefa sua do dia-dia. - 10 min
+- [x] 3 alunas para ler suas respostas de exercícios - 10 min
 
 ### Variáveis e Tipos
-- [] Declaração de variáveis: var, let, const
-- [] Operador de atribuição:  =
-- [] Atribuição de valor à variável
-- [] Tipo String
-- [] Tipo Number
-- [] Tipo Boolean
-- [] Tipo undefined e null
+- [x] Declaração de variáveis: var, let, const
+- [x] Operador de atribuição:  =
+- [x] Atribuição de valor à variável
+- [x] Tipo String
+- [x] Tipo Number
+- [x] Tipo Boolean
+- [x] Tipo undefined e null
 
 ### Mãos à obra - juntas no VS CODE
-- [] Instalando o node.js
-- [] Criando minhas pastas, arquivos
-- [] Como utilizar o console
-- [] Usando typeof
-- [] Usando template string
-- [] Utilizando o node
-- [] **Almoço**
+- [x] Instalando o node.js
+- [x] Criando minhas pastas, arquivos
+- [x] Como utilizar o console
+- [x] Usando typeof
+- [x] Usando template string
+- [x] Utilizando o node
+- [x] **Almoço**
 
 ### Relembrando
 - [] Pedir à 1 ou 2 alunas para relembrar o que foi aprendido durante a manhã
 
 ### Operadores e expressões
-- [] Operadores aritméticos 
-- [] Operador Unário
-- [] Operadores de igualdade e relacionais
-- [] Operadores lógicos 
-- [] Mostrar no código 
-- [] **Exercício** - Usando operadores e variáveis, com node.js  - 10 min 
+- [x] Operadores aritméticos 
+- [x] Operador Unário
+- [x] Operadores de igualdade e relacionais
+- [x] Operadores lógicos  
+- [x] **Fazer juntas** - Usando operadores e variáveis, com node.js  
 
 ### Condicionais 
-- [] Estrutura if / else
-- [] Estrutura if / else if / else
-- [] Mostrar no código 
+- [x] Estrutura if / else
+- [x] Estrutura if / else if / else
+- [x] Mostrar no código 
+- [x] **Fazer juntas** - condicionais
+
+### Usando o navegador 
+- [x] Inicialização de um html + usando a tag `<script>` 
+- [x] Prompt
+- [x] Alert
 
 ### Exercícios da semana!!
-- [] Passar exercícios da semana
-- [] Retomando - git, github -
+- [x] Passar exercícios da semana
+
+### Retomando git/github
+- [x] Como adicionar atualizações de outro repositório, `git remote add upstream https://link-do-repositorio`
+- [x] Fazendo o pull(puxar) da upstream
+- [x] Criando minhas branchs, dando push pro meu repositório, criando pull requests
+
 ---
 
 ## Aula 02 / 18/03/2021 - Quinta-feira / das 20h às 22h
