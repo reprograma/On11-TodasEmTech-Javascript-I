@@ -1,0 +1,23 @@
+{
+  "name": "on11-todasemtech-javascript-i",
+  "version": "1.0.0",
+  "description": "Back-end | 2021 | Semana 2 | Lógica e Javascript I",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisabetealves/On11-TodasEmTech-Javascript-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisabetealves/On11-TodasEmTech-Javascript-I/issues"
+  },
+  "homepage": "https://github.com/elisabetealves/On11-TodasEmTech-Javascript-I#readme"
+}
