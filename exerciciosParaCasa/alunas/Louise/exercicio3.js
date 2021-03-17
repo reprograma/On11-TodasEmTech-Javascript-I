@@ -1,3 +1,3 @@
 let calculadora = (10 + 5)*3
-
-console.log(calculadora)
+calculadora++
+console.log(calculadora*3)
