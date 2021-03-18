@@ -104,9 +104,12 @@ console.log("...")
 
  console.log(" Exercicio 8 - peso 50,2 kilos")
 
+
+ // exercicio 8
+
  let multaPorQuiloExcedente = 4
  let limiteDeQuilos = 50
- let pesoDoPeixe = 50.2;
+ let pesoDoPeixe = 55.2;
 
 
  if (pesoDoPeixe > 50) {
@@ -114,7 +117,8 @@ console.log("...")
      console.log(` Valor da multa R$ ${calcularMulta.toFixed(2)}`)
  }
  else {
-    console.log("João não precisa pagar multa")
+     let calcularMulta = 0;
+    console.log(calcularMulta)
  }
 
 
