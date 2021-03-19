@@ -11,7 +11,7 @@
 
     - Adicione uma nova linha para alterar o valor armazenado na variável meuNome existente por outro nome.
 
-    - Mostre no console o valor da variável minhaIdade e da variável meuNome.
+    - Mostre no console o valor da variável minhaIdade e dapro p variável meuNome.
 
 - 2 *O código abaixo possui dois erros. O console deve exibir o nome Chris, e uma declaração sobre quantos anos Chris terá daqui a 20 anos. Como você pode corrigir o problema e corrigir a saída?*
 
