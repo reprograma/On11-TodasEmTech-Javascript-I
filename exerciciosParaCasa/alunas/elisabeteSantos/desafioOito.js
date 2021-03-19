@@ -15,10 +15,11 @@ const limitesDeQuilos = 50
 
 if(pesoQuiloDePeixo > 50){
     let excessoDePeso =  pesoQuiloDePeixo - limitesDeQuilos
-    let total = multaExcedente * excessoDePeso
+    let calcularMulta = multaExcedente * excessoDePeso
 
-    console.log('O excesso de peso é: ', excessoDePeso )
-    console.log('O valor da multa pelo excesso de peso é: ', total )
+    console.log('O excesso de peso é: ', excessoDePeso.toFixed(2))
+    console.log('O valor da multa pelo excesso de peso é: ', calcularMulta.toFixed(2))
 } else{
-    console.log(' Não há excesso de pesso')
+    let calcularMulta = 0
+    console.log(calcularMulta)
 }

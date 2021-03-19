@@ -9,7 +9,7 @@ const numeroTres = input.question('Informe o terceiro número: ')
 
 const total = parseFloat(numeroUm) + parseFloat(numeroDois) + parseFloat(numeroTres)
 
-let media = total / 3
+media = total / 3
 
 console.log(' a média é: ', media.toFixed(2))
 
