@@ -23,6 +23,25 @@
      console.log(myName);    
      console.log(\`In 20 years, I will be ${myAge + 20}`);
 
+//
+const myName = 'Default'; 
+
+ const myName = 'Chris';
+
+let idadeCris = '42';
+
+let idadeCrisVinteAnosDepois = 42 + 20;
+
+console.log (myName );  
+ 
+console.log("Daqui a vinte anos minha idade será: " ,idadeCrisVinteAnosDepois );  
+
+console.log(`In 20 years, I will be ${myAge + 20}`);
+
+
+//
+
+
 - 3 *Execute as seguintes tarefas: 1.Declare uma nova variável chamada 'calculadora', e adicione uma instrução somando os valores 10 e 5.*
     - Incremente 1 à variável 'calculadora', usando o operador de soma abreviado.
     - Atribua à variável 'calculadora' seu próprio valor multiplicando por 3, usando o operador de multiplicação abreviado.
