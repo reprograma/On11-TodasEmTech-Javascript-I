@@ -74,3 +74,32 @@ if (dayOfWeek == 1) {
 } else {
     console.log("Dia da Semana: Sábado");
 }
+
+ /*7 - Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se os números forem iguais, mostre uma mensagem no console "Os números são iguais".*/
+ let numero1 = 8;
+ let numero2 = 6
+
+    if(numero1 > numero2){
+        console.log(`O primeiro número digitado (${numero1}) é maior que o segundo (${numero2})`);
+        } else if( numero1 < numero2){
+            console.log(`O segundo número digitado (${numero2}) é maior que o primeiro (${numero1})`);
+        } else {
+            console.log("Os números são iguais.");
+        }
+
+ /*8 - João, Pescador, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e verifique se há excesso. Se houver, mostrar o excesso e o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis com o conteúdo ZERO.*/
+    let peso = 50;
+
+    if( peso < 50){
+    let excesso1 = 0;
+    let multa1 = 0;
+    console.log('Excesso =', excesso1, 'Multa =', multa1);
+ } else {
+    let excesso = peso - 50;
+    let multa = excesso * 4;
+     console.log(
+         'Excesso =', excesso, 'Multa = ', multa
+     );
+ }
+
+ 
