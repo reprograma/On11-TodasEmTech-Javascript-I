@@ -8,5 +8,5 @@ let numero3 = 4;
 
 let media = (numero1 + numero2 + numero3) / 3;
 
-console.log(`A media entre os valores 2, 3 e 4 é: ${media}`);
+console.log(`A média entre os valores 2, 3 e 4 é: ${media}`);
 
