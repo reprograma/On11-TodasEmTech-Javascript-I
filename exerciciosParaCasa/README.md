@@ -1,17 +1,29 @@
 **Exercícios para entregar na semana:** 
 
-- 0 *Escreva seus algoritimos sobre item de rotina do dia-dia. (use o comentário // para realizar o texto)*
+- 0 *Escreva seus algoritimos sobre uma atividade de rotina do dia-dia. (use o comentário // para escrever o texto)*
 
 - 1 *Execute as seguintes tarefas:*
     - Declare uma variável chamada meuNome.
+-eu tenho que criar uma variavel, e o nome dela tem q ser meu nome
+-variavel ---> nome dela = meuNome 
+let meuNome;
+
 
     - Inicialize meuNome com um valor adequado em uma linha separada (você pode usar seu nome real ou qualquer outra coisa).
+dar um valor pra minha variável
+meuNome = 'amanda'
 
     - Declare uma variável chamada minhaIdade e inicialize-a com um valor, na mesma linha.
+//na mesma linha eu tenho que iniciar a variavel e dar o valor dela
+let minhaIdade = true;
 
     - Adicione uma nova linha para alterar o valor armazenado na variável meuNome existente por outro nome.
 
+//noutra linha eu tenho que mudar o valor dessa variavel que eu já criei que se chama meuNome
+meuNome = 'natasha'
+
     - Mostre no console o valor da variável minhaIdade e da variável meuNome.
+
 
 - 2 *O código abaixo possui dois erros. O console deve exibir o nome Chris, e uma declaração sobre quantos anos Chris terá daqui a 20 anos. Como você pode corrigir o problema e corrigir a saída?*
 
@@ -21,7 +33,7 @@
      let myAge = '42';
 
      console.log(myName);    
-     console.log(\`In 20 years, I will be ${myAge + 20}`);
+     console.log(`In 20 years, I will be ${myAge + 20}`);
 
 - 3 *Execute as seguintes tarefas: 1.Declare uma nova variável chamada 'calculadora', e adicione uma instrução somando os valores 10 e 5.*
     - Incremente 1 à variável 'calculadora', usando o operador de soma abreviado.
