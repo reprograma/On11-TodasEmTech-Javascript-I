@@ -137,4 +137,6 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 - [KhanAcademy](https://www.khanacademy.org/computing/computer-programming)
 
 - [Dev Furia - Lógica Programação](http://devfuria.com.br/logica-de-programacao/)
+PRINT "OI DEISI"
+
 
