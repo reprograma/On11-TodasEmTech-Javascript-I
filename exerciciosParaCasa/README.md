@@ -23,7 +23,17 @@
      console.log(myName);    
      console.log(\`In 20 years, I will be ${myAge + 20}`);
 
-- 3 *Execute as seguintes tarefas: 1.Declare uma nova variável chamada 'calculadora', e adicione uma instrução somando os valores 10 e 5.*
+- 2 *O código abaixo possui dois erros. O console deve exibir o nome Chris, e uma declaração sobre quantos anos Chris terá daqui a 20 anos. Como você pode corrigir o problema e corrigir a saída?*
+
+     const myName = 'Default';    
+     myName = 'Chris';
+
+     let myAge = '42';
+
+     console.log(myName);    
+     console.log(\`In 20 years, I will be ${myAge + 20}`);
+
+     3 *Execute as seguintes tarefas: 1.Declare uma nova variável chamada 'calculadora', e adicione uma instrução somando os valores 10 e 5.*
     - Incremente 1 à variável 'calculadora', usando o operador de soma abreviado.
     - Atribua à variável 'calculadora' seu próprio valor multiplicando por 3, usando o operador de multiplicação abreviado.
     - Mostre o valor de 'calculadora' no console.
