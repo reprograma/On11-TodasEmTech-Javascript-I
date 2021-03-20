@@ -32,6 +32,7 @@ console.log(`In 20 years, I will be ${myAge + 20}.`);
     - Atribua à variável 'calculadora' seu próprio valor multiplicando por 3, usando o operador de multiplicação abreviado.
     - Mostre o valor de 'calculadora' no console.*/
 let calculadora = 10 + 5;
+calculadora++
 calculadora *= 3
 
 console.log("Resultado final: ", calculadora);
