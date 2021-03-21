@@ -6,9 +6,9 @@
     - Declare uma variável chamada meuNome.
 
     - Inicialize meuNome com um valor adequado em uma linha separada (você pode usar seu nome real ou qualquer outra coisa).
+ade e inicialize-a com um valor, a mesma linnha.
 
-    - Declare uma variável chamada minhaIdade e inicialize-a com um valor, na mesma linha.
-
+    - Declare uma variável chamada minhaId
     - Adicione uma nova linha para alterar o valor armazenado na variável meuNome existente por outro nome.
 
     - Mostre no console o valor da variável minhaIdade e da variável meuNome.
