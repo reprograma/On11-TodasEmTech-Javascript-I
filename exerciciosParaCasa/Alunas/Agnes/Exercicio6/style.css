@@ -1,0 +1,38 @@
+body{
+
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+    vertical-align:middle;
+
+}
+
+button {
+    background-color: plum;
+    border: none;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+
+    width: 150;
+    height: 30;
+    margin-top: 10;
+  }
+div{
+
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+    
+}
+input{
+    height: 30;
+    margin-top: 10;
+    margin-bottom: 10;
+}
