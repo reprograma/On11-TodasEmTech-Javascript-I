@@ -13,7 +13,7 @@ console.log(typeof(nome), "Mari Lima");
 //let e number - variável 'variável' números
 let idade = 25; 
 idade = idade + 1; 
-console.log("idade da pessoa: ",idade);
+//console.log("idade da pessoa: ",idade);
 console.log(typeof(idade), 26);
 
 // boolean - que recebe verdadeiro ou falso
