@@ -45,7 +45,7 @@ meuNome = 'natasha'
     - caso 1: 12 dias e 320 km; 
     - caso 2: 6 dias e 390km; 
 
-- 5 *Receba do usuários 3 números ou crie variaveis com 3 números, e calcule a média entre eles.*
+- 5 *Receba do usuário 3 números ou crie variaveis com 3 números, e calcule a média entre eles.*
 
 
 **Exercícios desafios**

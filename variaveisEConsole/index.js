@@ -6,13 +6,13 @@ console.log("hello world");
 comentários
 */
 console.log("nome da pessoa: ", nome);
-console.log(typeof nome, "Mari Lima");
+console.log(typeof(nome), "Mari Lima");
 
 //let e number - variável 'variável' números
-let idade = 25;
-idade = idade + 1;
-console.log("idade da pessoa: ", idade);
-console.log(typeof idade, 26);
+let idade = 25; 
+idade = idade + 1; 
+console.log("idade da pessoa: ",idade);
+console.log(typeof(idade), 26);
 
 // boolean - que recebe verdadeiro ou falso
 let maravilhosa = true;
