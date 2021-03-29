@@ -10,3 +10,4 @@ Array[5] = "Quinta";
 Array[6] = "Sexta";
 Array[7] = "Sábado";
 
+console.log(Array)
