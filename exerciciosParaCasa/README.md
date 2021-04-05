@@ -37,7 +37,7 @@ meuNome = 'natasha'
 
 - 2 *O código abaixo possui dois erros. O console deve exibir o nome Chris, e uma declaração sobre quantos anos Chris terá daqui a 20 anos. Como você pode corrigir o problema e corrigir a saída?*
 
-     const myName = 'Default';    
+     const myName = 'Default';   
      myName = 'Chris';
 
      let myAge = '42';
