@@ -1,5 +1,5 @@
 //exercicios pra casa
 
-const Ola = "hello world"
+const ola = "hello world"
 
-console.log()
+console.log(ola)

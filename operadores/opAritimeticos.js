@@ -8,7 +8,7 @@
 */
 
 
-let laranjas = 15+3; 
+let laranjas = 15; 
 console.log(`comi uma laranja agora tenho ${--laranjas} laranjas.`)
 
 laranjas--; 
