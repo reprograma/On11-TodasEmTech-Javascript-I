@@ -1,6 +1,10 @@
 // diga pra eu, se o número é par ou é ímpar, por favor:
 
+<<<<<<< HEAD
 const numero = 12
+=======
+const numero = prompt("Digite um número:"); 
+>>>>>>> 0469cedd9fd55e04781c485b39d655b886b7792d
 
 if (numero % 2 === 0) {
     alert("o número é par ! :)")
