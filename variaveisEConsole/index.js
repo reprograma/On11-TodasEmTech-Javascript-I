@@ -26,7 +26,7 @@ console.log(maravilhosa, typeof(maravilhosa));
 maravilhosa = true;
 
 //template string ou concatenando texto
-console.log(`a pessoa ${meuNome} de idade ${minhaIdade} é maravilhosa? ${maravilhosa} `);
+console.log(`a pessoa ${nome} de idade ${idade} é maravilhosa? ${maravilhosa} `);
 // "a pessoa " +nome + "de idade " + idade + " é maravilhosa? " + maravilhosa 
 
 //alt + z = pra ver todo conteúdo da linha
@@ -34,6 +34,7 @@ console.log(`a pessoa ${meuNome} de idade ${minhaIdade} é maravilhosa? ${maravi
 //tipo indefinido
 let telefone;
 console.log(typeof(telefone))
-    //tipo nulo
-telefone = null;
+//tipo nulo
+telefone = null; 
 console.log(typeof(telefone)) // significa valor especial - nenhum objeto
+
