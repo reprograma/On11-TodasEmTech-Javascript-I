@@ -91,9 +91,9 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 
 ## Aula 02 / 18/03/2021 - Quinta-feira / das 20h às 22h
 
-- [] **Momento de relembrar** - Pedir para alunas relembrarem aula de domingo. 
-- [] **Dúvidas sobre conteúdo/exercícios**
-- [] **Preview - Mostrando os tipos objeto/array e functions**
+- [x] **Momento de relembrar** - Pedir para alunas relembrarem aula de domingo. 
+- [x] **Dúvidas sobre conteúdo/exercícios**
+- [x] **Preview - Mostrando os tipos objeto/array e functions**
 
 ---
 
