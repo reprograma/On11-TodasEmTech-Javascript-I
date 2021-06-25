@@ -1,4 +1,4 @@
-/* - 0 *Escreva seus algoritimos sobre item de rotina do dia-dia. (use o comentário // para realizar o texto)*
+/* - 0 *Escreva seus algoritmos sobre item de rotina do dia-dia. (use o comentário // para realizar o texto)*
 ---
 
     Algoritmo: Fritar ovos
